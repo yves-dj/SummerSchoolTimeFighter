@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TimeFighter</string>
+    <string name="tapBtnValue">TAP</string>
+    <string name="timerValue">Elapsed Time: %1$d</string>
+    <string name="score">Score: %1$d</string>
+    <string name="endMessage">Finished, Score: %1$d</string>
+    <string name="menuItemAboutValue">About</string>
+    <string name="alertText">TEXTALERT</string>
+</resources>
